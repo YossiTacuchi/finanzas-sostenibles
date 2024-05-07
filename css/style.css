@@ -110,13 +110,13 @@ a.btn-rojo{
 }
 .content-banner{
     padding: 55px 25px;
-    background-image: linear-gradient(to bottom,#7c72a4, #5b5384);
-    border-bottom: 15px solid #7c72a4;
+    background-image: linear-gradient(to bottom,#7c72a5, #5b5284);
+    border-bottom: 15px solid #7c72a5;
 }
 .info-2-verde{
     color: #fff;
-    background-image: linear-gradient(to bottom, #7c72a4,#5b5384); 
-    border-bottom: 20px solid #7c72a4;
+    background-image: linear-gradient(to bottom, #7c72a5,#5b5284); 
+    border-bottom: 20px solid #7c72a5;
 }
 .info-2-txt{
     font-size: 18pt;
