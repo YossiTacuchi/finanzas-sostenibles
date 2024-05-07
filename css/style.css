@@ -9,7 +9,7 @@ fondo gris
 #dbdbdb
 
 fondo negro
-#7c73a5
+#1d1d1b
 
 gradiente vertical #c9d244   #776da1
 */
@@ -103,7 +103,7 @@ a.btn-rojo{
 .content-main,
 .content-contacto{
     color: #fff;
-    background-color: #7c73a5;
+    background-color: #1d1d1b;
 }
 .content-top-banner .top-banner{
     padding: 70px 0px;
@@ -128,9 +128,9 @@ a.btn-rojo{
 .main{
     justify-content: space-between;
     gap: 25px;
-    height: 1024px;
+    height: 1064px;
     padding: 40px 160px;
-    background-image: url('../images/bg-landing-2.png');
+    background-image: url('../images/bg-landing_3.jpg');
 }
 .form{
     display: flex;
@@ -187,7 +187,10 @@ select.form-select{
     border-top: 0px solid transparent;
     border-left: 0px solid transparent;
     border-right: 0px solid transparent;
-    border-bottom: 1px solid #7c73a5;
+    border-bottom: 1px solid #1d1d1b;
+}
+select.form-select{
+    background-position: right 0.15rem center;
 }
 .form-check .form-check-input{
     margin-left: -18px;
@@ -214,12 +217,12 @@ a.btn-rojo{
     align-items: center;
 }
 .info{
-    padding: 80px 60px 100px;
+    padding: 80px 50px 100px;
     gap: 20px;
     border-radius: 4px;
     box-shadow: 0px 0px 30px #1d1a191b;
     background-image: url('../images/bg-universidad.jpg');
-    background-size: 115%;
+    background-size: 110%;
     background-repeat: no-repeat;
     background-position-x: -15px;
 }
