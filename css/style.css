@@ -507,6 +507,12 @@ ul{
         background-position-x: -50px;
         background-size: cover;
     }
+    .info-2-verde{
+        width: 100%;
+    }
+    .columna-compartimos{
+        width: 100%;
+    }
     .info{
         background-size: cover;
     }
@@ -527,5 +533,47 @@ ul{
     }
     .top-banner img {
         width: 165px;
+    }
+    .txt-gracias{
+        margin-bottom: 0;
+        width: 100%;
+    }
+    .content-respuesta-top-banner, 
+    .content-respuesta-main .main, 
+    .content-respuesta-info .info-2, 
+    .content-respuesta-banner .banner,
+    .content-respuesta-info,
+    .content-respuesta-info .info{
+        width: 100%;
+    }
+    .content-respuesta-info .info{
+        padding:  20px;
+    }
+    .content-respuesta-main .main{
+        height: 670px;
+    }
+    .content-respuesta-main .main img{
+        height: fit-content !important;
+        width: fit-content !important;
+    }
+    .info.preguntas{
+        flex-direction: column;
+    }
+    .bloque-wsp{
+        flex-direction: column;
+        width: 100%;
+        padding-bottom: 40px;
+    }
+    .seccion-compartimos{
+        align-items: center;
+    }
+    .respecto{
+        text-align: center;
+    }
+    .titulo-1{
+        font-size: 12.4pt;
+    }
+    .titulo-2{
+        font-size: 8pt;
     }
 }
