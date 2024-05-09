@@ -301,7 +301,11 @@ a.btn-rojo{
 .col-elegir{
     width: 25%;
 }
-
+.text-white{
+    color: #fff;
+    font-size: 8pt;
+    font-family: 'Work Sans Bold';
+}
 
 /***************************** respuesta   *************************+*/
 .txt-gracias{
